@@ -5,7 +5,7 @@ TODO - простой список дел.
 
 ![screenshot](./todo.jpg)
 
-### App
-https://shotalex-todo.netlify.app/
+## yarn start
+
 
 ##### Совершенствуйся и успех придёт!
